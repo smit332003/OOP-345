@@ -1,0 +1,11 @@
+/*==============================================
+Name: Smitkumar K Patel
+Student id: 157308214
+Date: 03 DEC 2022
+email: spatel556@myseneca.ca
+Project: 3    
+I have done all the written part of reflection by myself. ==============================================*/
+
+
+In order to do this project, i went through all pdf of the given modules of this project and after going through all of the given pdfs ii started making functions for the given modules. Also I used classes. and after doing all necessary work i ended up with the correct output of the given projects.Moreover, I practiced the use of classes and its objects along with its properties and functions, constructors, and destructors, fetching elements of arrays in new ways by using loops and understanding the scope of the elements of the classes and objects. And i learn in the modules Inherit a derived class from a base class
+Also Utilizing custom input/output operators with these given classes and Access a shadowed member function that is defined in a base class. So this is how I ended up with all the necessary requirements with the correct output.

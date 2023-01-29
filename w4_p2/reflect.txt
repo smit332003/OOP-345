@@ -1,0 +1,11 @@
+/*==============================================
+   Name: Smitkumar K PATEL
+   Student Number: 157308214
+   Email: spatel556@myseneca.ca  
+   Date: OCT 9 2022          
+   Workshop: 4       
+  ==============================================*/
+
+
+I used classes called Timer, TennisLog etc. and after doing all necessary work i ended up with the correct output of the given workshop.Moreover, I practiced the use of classes and its objects along with its properties and functions, constructors, and destructors, fetching elements of arrays in new ways by using loops and understanding the scope of the elements of the classes and objects. And i learn in the modules Inherit a derived class from a base class
+Also Utilizing custom input/output operators with these given classes and Access a shadowed member function that is defined in a base class. So this is how I ended up with all the necessary requirements with the correct output.
